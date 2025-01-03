@@ -24,4 +24,4 @@ To run the project, you need to install the following libraries:
 You can install the dependencies using pip:
 
 ```bash
-pip install nltk spacy transformers requests beautifulsoup4 pandas matplotlib
+pip install -r requirements.txt
